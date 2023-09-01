@@ -5,7 +5,7 @@
 # Introduction
 Ask-DataFrame is an interactive Streamlit web application that allows users to ask questions about a provided DataFrame. The application leverages Hugging Face's CodeLlama-34b-Instruct-hf model to generate Python code based on user queries, then executes this code on the DataFrame to provide the answers.
 
-# Visit the live app here.
+# Visit the live app here: https://appuctionschedulerpy-f5pk7uwdq9bmsx26jjmv4x.streamlit.app/
 
 # Features
 Quick DataFrame preview to understand the data before asking questions
