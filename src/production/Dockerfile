@@ -17,7 +17,7 @@ COPY . /app
 EXPOSE 80
 
 # Define environment variable
-ENV NAME usta-tournament
+ENV NAME .env
 
 # Run the script when the container launches
 CMD ["python", "production_scheduler.py"]
